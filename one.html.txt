@@ -1,8 +1,11 @@
 <html>
 <head>
-<title>Automation Manifold Services Pvt Ltd. Nagpur</title>
+<title>AMS Pvt Ltd. Nagpur</title>
 </head>
 <body>
 <h3>Languages</h3>
+<h1>java</h1>
+<h2>php</h2>
+<h2>c </h2>
 </body>
 </html>
